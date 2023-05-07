@@ -1,0 +1,18 @@
+@charset "utf-8";
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    /* font-family: serif; */
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+h2 {
+    font-family: "游ゴシック体", "Yu Gothic", YuGothic, sans-serif;
+}
+
+p {
+    font-family: "ヒラギノ丸ゴ  Pro W4", "Hiragino Maru Gothic Pro", sans-serif;
+}
